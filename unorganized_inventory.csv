@@ -1,0 +1,196 @@
+Product ID,Product Name,Category,Brand,Quantity in Stock,Unit,Cost Price,Selling Price,Supplier Name,Reorder Level,Last Updated,Location,Expiry Date,Status
+P1177,Pickle,Fruits & Vegetables,Parle,,gm,497.2,33.94,,30,,D4,2026-01-15,
+P1091,frozen peas,Home & Kitchen,Britannia,174,pieces,,65.08,TBD,22,15-10-2024,D4,2026-01-15,Low Stock
+P1078,bread,Packaged Foods,Local,-3,pieces,335.06,93.56,Reliance Retail,28,,c3,Dec-2025,OUT OF STOCK
+P1098,BUTTER,Fruits & Vegetables,Britannia,31,GM,135.11,,NA,14,NA,c3,31/12/2025,Low Stock
+P1142,SAUCE,Grocery & Staples,Amul,79,packet,11.39,99.64,metro cash,30,2024-10-15,B2,2026-01-15,NA
+P1193,Cold Drink,Fruits & Vegetables,,51,gram,34.61,511.28,local vendor,19,NA,,NA,Low Stock
+P1042,Maggi,Dairy & Bakery,HUL,106,ltr,443.47,257.71,local vendor,12,2024/10/20,B2,Dec-2025,in stock
+P1135,TOOTHPASTE,Fruits & Vegetables,Amul,85,pcs,480.06,157.28,TBD,26,15-10-2024,B2,2026-01-15,NA
+P1108,coFFee,Dairy & Bakery,HUL,156,pieces,494.81,225.08,,16,,,,OUT OF STOCK
+P1064,Ice Cream,Dairy & Bakery,Nestle,112,L,,507.34,local vendor,15,2024/10/20,,,NA
+P1117,coriander,Snacks & Beverages,Parle,195,gram,103.05,49.21,TBD,28,10-Oct-24,A1,31/12/2025,
+P1058,Pickle,Grocery & Staples,Parle,13,packet,376.99,183.84,Reliance Retail,14,NA,TBD,Dec-2025,
+P1012,coFFee,Fruits & Vegetables,ITC,67,L,281.01,,metro cash,30,10-Oct-24,D4,,OUT OF STOCK
+P1172,Cold Drink,Fruits & Vegetables,Parle,145,Kg,330.91,375.16,BIGBASKET,,10-Oct-24,D4,,Low Stock
+P1061,chocolate,Dairy & Bakery,ITC,31,KG,,509.62,local vendor,16,2024/10/20,B2,N/A,In Stock
+P1142,Tea Powder,Dairy & Bakery,Parle,16,pcs,172.32,584.7,,12,2024-10-15,NA,Dec-2025,In Stock
+P1058,Ghee,Snacks & Beverages,N/A,134,pcs,,151.11,,,2024-10-15,TBD,2025-12-31,Low Stock
+P1190,FROZEN PANEER,Frozen Foods,Mother Dairy,161,gm,83.92,75.55,NA,27,12/10/2024,c3,31/12/2025,in stock
+P1007,green chilli,Dairy & Bakery,,151,KG,237.49,394.81,Reliance Retail,6,10-Oct-24,NA,31/12/2025,In Stock
+P1036,Pasta,Personal Care,Fortune,7,pieces,124.09,208.22,local vendor,29,2024-10-15,A1,N/A,in stock
+P1019,Pickle,Grocery & Staples,MDH,3,KG,146.45,330.45,TBD,23,,NA,2025-12-31,NA
+,COOKING OIL,Frozen Foods,Local,84,packet,119.23,248.1,BIGBASKET,29,10-Oct-24,,2026-01-15,
+P1168,Pickle,Fruits & Vegetables,Nestle,16,pcs,170.95,426.16,TBD,21,12/10/2024,TBD,N/A,OUT OF STOCK
+P1034,Tomato,Personal Care,Nestle,169,kg,394.11,87.68,NA,19,12/10/2024,TBD,2025-12-31,Available
+P1172,Tomato,Grocery & Staples,HUL,13,,285.87,329.52,,16,12/10/2024,D4,Dec-2025,OUT OF STOCK
+,TOOR DAL,Grocery & Staples,HUL,139,packet,260.29,171.72,,16,,A1,NA,Available
+P1121,namkeen,Personal Care,Parle,148,Kg,145.36,257.74,NA,5,10-Oct-24,RACK-5,NA,
+P1138,Pickle,Packaged Foods,Local,91,Litre,490.58,239.04,NA,6,10-Oct-24,NA,2026-01-15,NA
+P1034,Tomato,Personal Care,Nestle,169,kg,394.11,87.68,NA,19,12/10/2024,TBD,2025-12-31,Available
+P1035,namkeen,Home & Kitchen,MDH,90,pieces,381.1,497.98,NA,29,,B2,N/A,Low Stock
+P1115,Ready Mix,Frozen Foods,Local,61,box,385.25,381.65,BIGBASKET,27,10-Oct-24,D4,Dec-2025,OUT OF STOCK
+P1144,FROZEN PANEER,Frozen Foods,Mother Dairy,96,kg,293.37,,BIGBASKET,22,12/10/2024,B2,,In Stock
+P1198,Tomato,Personal Care,Nestle,163,PCS,101.92,457.52,TBD,6,2024-10-15,RACK-5,N/A,in stock
+P1185,potato,Home & Kitchen,,118,ltr,156.26,589.62,NA,11,NA,NA,Dec-2025,Low Stock
+P1020,FROZEN PANEER,Fruits & Vegetables,,28,L,463.76,501.66,BIGBASKET,13,2024-10-15,B2,2025-12-31,in stock
+P1049,detergent,Home & Kitchen,Amul,5,ltr,297.92,141.95,metro cash,15,10-Oct-24,A1,2025-12-31,in stock
+P1196,WATER Bottle,Snacks & Beverages,Britannia,,gm,44.1,583.51,Reliance Retail,11,2024/10/20,TBD,,OUT OF STOCK
+P1001,BUTTER,Personal Care,Parle,150,PCS,341.06,479.34,NA,26,12/10/2024,RACK-5,N/A,Available
+P1046,Ice Cream,Home & Kitchen,Parle,177,pcs,131.65,202.16,NA,,10-Oct-24,B2,N/A,Available
+P1178,Soap,Fruits & Vegetables,MDH,171,gram,141.61,212.65,NA,13,15-10-2024,NA,NA,Available
+P1091,TOOTHPASTE,Snacks & Beverages,HUL,118,KG,282.57,177.96,metro cash,22,15-10-2024,A1,N/A,Available
+P1104,Ice Cream,Grocery & Staples,NA,107,PCS,307.26,435.24,TBD,16,2024/10/20,c3,NA,OUT OF STOCK
+P1080,bread,N/A,NA,168,pcs,360.36,419.01,TBD,27,15-10-2024,RACK-5,NA,Available
+P1029,Maggi,Home & Kitchen,Amul,141,Kg,264.97,135.16,,21,2024/10/20,A1,,in stock
+P1197,namkeen,Frozen Foods,Britannia,90,pcs,459.39,61.95,TBD,9,NA,,31/12/2025,in stock
+P1114,COOKING OIL,Dairy & Bakery,Tata,42,pieces,209.94,,BIGBASKET,24,,,NA,Low Stock
+P1155,Curd,Fruits & Vegetables,,2,GM,139.68,349.7,,20,NA,RACK-5,2026-01-15,OUT OF STOCK
+P1095,Cold Drink,Home & Kitchen,Amul,96,KG,413.85,139.08,TBD,5,12/10/2024,,2025-12-31,in stock
+P1024,green chilli,Grocery & Staples,Britannia,35,pcs,198.54,288.81,BIGBASKET,5,NA,B2,2026-01-15,
+P1138,Pickle,Packaged Foods,Local,91,Litre,490.58,239.04,NA,6,10-Oct-24,NA,2026-01-15,NA
+P1035,SAUCE,Snacks & Beverages,Amul,78,Litre,441.02,571.45,local vendor,7,2024/10/20,A1,2026-01-15,
+P1003,milk PACKET,Fruits & Vegetables,Amul,49,Kg,311.88,142.09,Reliance Retail,8,,TBD,Dec-2025,Low Stock
+P1199,bread,Home & Kitchen,HUL,34,gm,,274.22,local vendor,19,2024/10/20,RACK-5,2025-12-31,NA
+P1008,namkeen,Packaged Foods,N/A,35,kg,55.67,549.06,local vendor,25,15-10-2024,c3,,Available
+P1104,bread,Dairy & Bakery,HUL,2,box,38.24,,Reliance Retail,27,2024-10-15,RACK-5,Dec-2025,NA
+P1026,namkeen,Grocery & Staples,N/A,37,kg,,186.62,BIGBASKET,12,,TBD,N/A,Available
+P1128,frozen peas,Packaged Foods,Mother Dairy,56,Litre,,364.55,NA,20,10-Oct-24,A1,NA,In Stock
+P1175,ONION,Grocery & Staples,,181,PCS,494.87,340.82,TBD,29,15-10-2024,A1,2025-12-31,NA
+P1096,chips,Fruits & Vegetables,ITC,145,box,498.61,392.9,NA,30,10-Oct-24,B2,31/12/2025,Low Stock
+P1167,TOOR DAL,Home & Kitchen,Amul,,PCS,78.01,277.43,Reliance Retail,5,10-Oct-24,D4,NA,in stock
+P1179,ONION,Packaged Foods,Amul,176,box,63.59,559.0,TBD,10,,c3,Dec-2025,
+P1055,Tea Powder,Home & Kitchen,Parle,49,pcs,325.0,96.68,TBD,13,NA,TBD,N/A,Low Stock
+P1061,ketchup,Frozen Foods,Amul,198,KG,453.52,24.61,,27,2024-10-15,RACK-5,,In Stock
+P1167,coriander,Frozen Foods,,,gm,59.18,73.33,local vendor,,2024-10-15,TBD,NA,Available
+P1108,ONION,Personal Care,NA,51,L,24.22,412.3,local vendor,19,2024-10-15,A1,,
+P1055,TOOR DAL,Home & Kitchen,HUL,30,L,59.56,503.55,,,10-Oct-24,c3,N/A,Low Stock
+P1094,detergent,Dairy & Bakery,MDH,24,,263.7,83.89,NA,19,2024-10-15,RACK-5,2026-01-15,Low Stock
+P1188,Pickle,Packaged Foods,NA,-4,kg,179.75,528.16,BIGBASKET,,NA,TBD,NA,Available
+P1099,Tomato,Dairy & Bakery,Britannia,99,PCS,111.35,544.33,,5,15-10-2024,TBD,,In Stock
+P1112,potato,Personal Care,Amul,93,Kg,253.79,318.78,NA,,2024/10/20,B2,,
+P1196,TOOTHPASTE,Fruits & Vegetables,HUL,138,pieces,199.31,336.67,NA,26,,B2,2025-12-31,In Stock
+P1177,ONION,Personal Care,,93,KG,290.24,595.72,BIGBASKET,,15-10-2024,TBD,Dec-2025,In Stock
+P1193,basmati rice,Personal Care,Parle,141,,349.46,84.16,BIGBASKET,26,,RACK-5,2026-01-15,In Stock
+P1200,coFFee,Home & Kitchen,ITC,,box,,88.84,TBD,11,2024/10/20,RACK-5,NA,OUT OF STOCK
+P1171,basmati rice,Grocery & Staples,Nestle,26,L,336.78,422.87,,18,NA,TBD,2026-01-15,Available
+P1081,Ready Mix,Home & Kitchen,Local,72,gm,258.6,279.37,Reliance Retail,14,12/10/2024,B2,N/A,
+P1147,Ice Cream,Grocery & Staples,Nestle,92,pcs,410.28,95.96,BIGBASKET,,2024/10/20,,N/A,In Stock
+P1174,Soap,Home & Kitchen,Fortune,168,kg,125.64,226.86,,,2024-10-15,NA,Dec-2025,OUT OF STOCK
+P1036,FROZEN PANEER,Grocery & Staples,Amul,141,packet,73.59,53.46,local vendor,28,2024/10/20,TBD,NA,Low Stock
+P1176,papad,Grocery & Staples,N/A,8,pcs,31.6,91.53,BIGBASKET,19,,TBD,N/A,In Stock
+P1137,frozen peas,Frozen Foods,Britannia,85,box,223.75,60.55,BIGBASKET,23,2024/10/20,TBD,Dec-2025,In Stock
+P1079,atta flour,Fruits & Vegetables,Nestle,94,Kg,217.29,329.37,TBD,10,,c3,,OUT OF STOCK
+P1005,Pasta,Snacks & Beverages,MDH,73,ltr,474.01,299.3,Reliance Retail,22,15-10-2024,c3,2025-12-31,Available
+P1194,shampoo,Fruits & Vegetables,HUL,176,PCS,285.57,341.01,metro cash,13,2024-10-15,,2026-01-15,In Stock
+P1012,Tomato,Grocery & Staples,Nestle,61,gm,214.61,207.97,local vendor,12,2024/10/20,,Dec-2025,NA
+P1067,Soap,Home & Kitchen,Tata,22,Litre,163.7,314.18,local vendor,11,10-Oct-24,A1,2026-01-15,Low Stock
+P1021,Ice Cream,Fruits & Vegetables,Tata,55,gm,301.31,260.25,,15,10-Oct-24,D4,2026-01-15,Available
+P1118,Pasta,Fruits & Vegetables,Nestle,158,pcs,297.63,509.63,,26,NA,RACK-5,N/A,
+P1045,SAUCE,Frozen Foods,Nestle,173,gm,,569.32,,11,15-10-2024,NA,N/A,OUT OF STOCK
+P1058,Pasta,Frozen Foods,Fortune,113,pieces,195.85,284.47,metro cash,28,15-10-2024,B2,31/12/2025,NA
+P1011,Pasta,Packaged Foods,Mother Dairy,1,GM,291.85,599.75,TBD,23,12/10/2024,c3,,
+P1111,Maggi,Personal Care,Mother Dairy,161,pieces,115.36,148.67,BIGBASKET,17,2024/10/20,B2,Dec-2025,Low Stock
+P1116,Pickle,Dairy & Bakery,Britannia,192,L,427.72,487.44,BIGBASKET,27,,A1,2025-12-31,NA
+,frozen peas,Packaged Foods,NA,164,PCS,178.44,336.98,BIGBASKET,13,10-Oct-24,RACK-5,2025-12-31,In Stock
+P1162,TOOTHPASTE,Packaged Foods,ITC,2,ltr,220.48,,metro cash,29,NA,B2,N/A,In Stock
+P1073,FROZEN PANEER,Dairy & Bakery,Nestle,73,pcs,36.84,568.01,NA,13,10-Oct-24,,31/12/2025,In Stock
+P1084,WATER Bottle,Home & Kitchen,Mother Dairy,18,PCS,351.67,480.47,local vendor,18,15-10-2024,D4,,OUT OF STOCK
+P1140,Ghee,Dairy & Bakery,N/A,105,L,467.21,38.34,BIGBASKET,12,NA,B2,Dec-2025,NA
+P1089,milk PACKET,Snacks & Beverages,Britannia,37,gram,141.69,466.29,Reliance Retail,18,10-Oct-24,B2,Dec-2025,Available
+P1193,Cold Drink,Fruits & Vegetables,,51,gram,34.61,511.28,local vendor,19,NA,,NA,Low Stock
+P1194,shampoo,Packaged Foods,Mother Dairy,191,gm,371.96,36.82,metro cash,10,12/10/2024,TBD,NA,Low Stock
+P1165,SAUCE,Dairy & Bakery,Britannia,27,packet,298.02,90.48,,6,15-10-2024,B2,N/A,in stock
+P1009,sugar,Personal Care,Fortune,,Kg,359.23,60.01,metro cash,23,15-10-2024,TBD,2026-01-15,
+P1084,BUTTER,Personal Care,Nestle,104,PCS,30.75,221.25,local vendor,30,12/10/2024,B2,2026-01-15,Available
+P1033,shampoo,Snacks & Beverages,HUL,77,packet,202.42,384.96,TBD,19,12/10/2024,B2,,
+P1186,coFFee,N/A,MDH,39,Kg,228.55,374.25,,14,2024/10/20,TBD,N/A,Low Stock
+P1196,paneer,Home & Kitchen,Amul,65,packet,148.67,128.56,metro cash,14,12/10/2024,c3,Dec-2025,In Stock
+P1041,detergent,Packaged Foods,Fortune,193,gm,319.13,207.87,,14,10-Oct-24,c3,Dec-2025,In Stock
+P1198,Curd,Fruits & Vegetables,Britannia,6,GM,485.1,455.15,NA,22,2024-10-15,RACK-5,NA,NA
+P1177,Soap,Packaged Foods,NA,,pcs,52.07,442.14,BIGBASKET,19,15-10-2024,D4,N/A,Low Stock
+P1138,Maggi,Personal Care,MDH,146,box,467.96,278.72,NA,24,NA,TBD,Dec-2025,In Stock
+P1016,juice,Grocery & Staples,Local,166,pieces,380.66,50.68,local vendor,18,,NA,N/A,in stock
+P1060,BUTTER,N/A,Tata,79,ltr,176.97,484.42,NA,5,2024-10-15,c3,NA,In Stock
+,COOKING OIL,Frozen Foods,Local,84,packet,119.23,248.1,BIGBASKET,29,10-Oct-24,,2026-01-15,
+P1196,Pasta,Home & Kitchen,Parle,173,box,129.8,82.85,,14,NA,c3,31/12/2025,In Stock
+P1048,Ready Mix,Home & Kitchen,ITC,12,pieces,494.28,243.42,local vendor,,2024/10/20,,Dec-2025,Available
+P1020,COOKING OIL,Packaged Foods,Britannia,17,GM,444.46,170.15,metro cash,16,10-Oct-24,B2,2026-01-15,In Stock
+P1061,ketchup,Frozen Foods,MDH,100,,172.77,484.31,NA,12,10-Oct-24,c3,NA,Available
+P1159,milk PACKET,Fruits & Vegetables,Nestle,,box,285.18,254.34,local vendor,19,2024/10/20,c3,31/12/2025,
+P1189,Floor Cleaner,Personal Care,N/A,44,box,208.69,206.84,local vendor,10,2024-10-15,NA,Dec-2025,in stock
+P1156,Ice Cream,Fruits & Vegetables,HUL,181,gram,497.62,271.29,,12,2024-10-15,B2,Dec-2025,In Stock
+P1096,Curd,Snacks & Beverages,ITC,118,kg,,21.93,,22,10-Oct-24,A1,N/A,NA
+P1008,BUTTER,Snacks & Beverages,Nestle,115,packet,124.05,160.0,metro cash,30,NA,A1,NA,in stock
+P1011,papad,Dairy & Bakery,NA,124,kg,412.94,577.06,TBD,19,NA,c3,,in stock
+P1164,coFFee,Personal Care,N/A,141,PCS,100.34,565.52,local vendor,7,2024/10/20,NA,31/12/2025,
+P1092,Tomato,Fruits & Vegetables,Amul,39,pcs,282.42,70.41,Reliance Retail,9,12/10/2024,A1,31/12/2025,NA
+P1061,ketchup,Frozen Foods,Amul,198,KG,453.52,24.61,,27,2024-10-15,RACK-5,,In Stock
+P1043,coFFee,Frozen Foods,Mother Dairy,134,box,433.38,416.99,metro cash,30,15-10-2024,A1,Dec-2025,In Stock
+P1068,Curd,Dairy & Bakery,Mother Dairy,79,box,477.53,534.15,local vendor,6,,B2,2025-12-31,Available
+P1053,Ready Mix,Frozen Foods,Britannia,131,pieces,489.71,350.05,NA,26,15-10-2024,B2,2025-12-31,NA
+P1161,atta flour,Frozen Foods,ITC,181,KG,282.62,516.13,,5,15-10-2024,TBD,31/12/2025,Low Stock
+P1195,Curd,Fruits & Vegetables,MDH,194,L,441.27,169.52,TBD,24,2024/10/20,A1,2025-12-31,OUT OF STOCK
+P1008,Maggi,Personal Care,Mother Dairy,170,gram,46.01,370.85,Reliance Retail,24,NA,,,
+P1026,shampoo,Snacks & Beverages,ITC,7,kg,124.83,520.28,Reliance Retail,14,2024-10-15,,N/A,
+P1016,sugar,Snacks & Beverages,HUL,177,pcs,207.12,329.53,metro cash,14,12/10/2024,D4,NA,in stock
+P1041,WATER Bottle,Home & Kitchen,Amul,62,packet,457.19,189.59,TBD,11,2024-10-15,,NA,in stock
+P1177,detergent,Home & Kitchen,Parle,115,gram,355.83,343.12,TBD,17,10-Oct-24,c3,,
+P1112,detergent,Personal Care,Britannia,84,Litre,430.29,420.8,BIGBASKET,17,15-10-2024,A1,,In Stock
+P1169,Ice Cream,Frozen Foods,ITC,181,GM,58.22,213.49,NA,11,2024-10-15,NA,2025-12-31,Low Stock
+P1187,paneer,Frozen Foods,N/A,19,gm,250.56,17.23,Reliance Retail,26,NA,NA,2025-12-31,In Stock
+,BUTTER,Personal Care,Tata,67,GM,252.02,512.87,local vendor,30,12/10/2024,,2025-12-31,Available
+P1118,milk PACKET,Dairy & Bakery,N/A,5,L,494.67,163.19,NA,14,10-Oct-24,A1,NA,Available
+P1012,coFFee,Fruits & Vegetables,ITC,67,L,281.01,,metro cash,30,10-Oct-24,D4,,OUT OF STOCK
+P1178,papad,Fruits & Vegetables,HUL,76,gram,484.2,205.64,BIGBASKET,17,10-Oct-24,B2,N/A,in stock
+P1003,milk PACKET,Fruits & Vegetables,Amul,49,Kg,311.88,142.09,Reliance Retail,8,,TBD,Dec-2025,Low Stock
+P1096,Curd,Snacks & Beverages,ITC,118,kg,,21.93,,22,10-Oct-24,A1,N/A,NA
+P1182,chocolate,Fruits & Vegetables,Britannia,67,L,478.61,380.64,,21,NA,c3,N/A,
+P1044,Tomato,Personal Care,Amul,18,gm,355.21,397.38,,10,12/10/2024,B2,Dec-2025,in stock
+P1062,coFFee,Grocery & Staples,Mother Dairy,-2,Litre,431.8,228.77,TBD,20,15-10-2024,B2,31/12/2025,
+P1161,coriander,Dairy & Bakery,Fortune,175,GM,151.8,151.18,Reliance Retail,19,NA,,2025-12-31,OUT OF STOCK
+P1032,FROZEN PANEER,Dairy & Bakery,Nestle,69,box,131.65,108.42,BIGBASKET,28,10-Oct-24,D4,NA,in stock
+P1081,Ready Mix,Home & Kitchen,Local,72,gm,258.6,279.37,Reliance Retail,14,12/10/2024,B2,N/A,
+P1097,frozen peas,Grocery & Staples,Nestle,16,L,359.42,105.22,TBD,9,NA,TBD,Dec-2025,OUT OF STOCK
+P1190,Tomato,Fruits & Vegetables,Parle,125,gram,242.7,,BIGBASKET,18,,RACK-5,NA,Available
+P1071,milk PACKET,Personal Care,Britannia,165,Kg,316.55,456.81,local vendor,27,12/10/2024,A1,2025-12-31,Low Stock
+P1168,detergent,Grocery & Staples,Parle,110,box,225.14,468.74,metro cash,28,,,NA,Available
+P1199,TOOR DAL,Packaged Foods,HUL,117,GM,389.56,495.67,metro cash,,NA,B2,2025-12-31,In Stock
+P1181,Ghee,Packaged Foods,ITC,193,PCS,186.04,315.0,local vendor,30,NA,NA,NA,NA
+P1187,Ghee,Grocery & Staples,NA,21,ltr,84.91,59.08,NA,19,15-10-2024,NA,2026-01-15,
+P1193,Ready Mix,Home & Kitchen,Amul,32,,242.82,57.6,local vendor,23,2024-10-15,TBD,,Low Stock
+P1078,coFFee,Fruits & Vegetables,Britannia,101,packet,390.09,546.48,BIGBASKET,18,10-Oct-24,A1,N/A,Available
+P1175,sugar,N/A,MDH,25,pcs,244.07,67.26,NA,15,10-Oct-24,RACK-5,2025-12-31,Low Stock
+P1177,potato,Frozen Foods,NA,8,ltr,176.89,573.59,local vendor,15,12/10/2024,RACK-5,NA,Low Stock
+P1159,Soap,Snacks & Beverages,Nestle,106,ltr,206.22,524.26,TBD,15,15-10-2024,c3,31/12/2025,
+P1170,Maggi,Home & Kitchen,Amul,29,gram,398.0,394.77,metro cash,22,NA,,2025-12-31,Available
+P1128,frozen peas,Packaged Foods,Mother Dairy,56,Litre,,364.55,NA,20,10-Oct-24,A1,NA,In Stock
+P1034,detergent,Snacks & Beverages,MDH,39,packet,486.03,549.39,NA,20,15-10-2024,RACK-5,2026-01-15,NA
+P1183,Ice Cream,Personal Care,Amul,141,gm,475.13,570.2,metro cash,30,2024-10-15,c3,31/12/2025,Low Stock
+P1022,basmati rice,Personal Care,Parle,57,Kg,93.06,172.02,metro cash,,2024/10/20,RACK-5,,OUT OF STOCK
+P1022,Tomato,Fruits & Vegetables,ITC,67,gram,,527.36,metro cash,21,2024-10-15,TBD,Dec-2025,Available
+P1007,Pickle,Fruits & Vegetables,,107,box,411.29,254.35,local vendor,14,2024-10-15,RACK-5,2026-01-15,in stock
+P1116,paneer,Dairy & Bakery,Britannia,169,Litre,357.67,184.86,BIGBASKET,27,NA,c3,NA,OUT OF STOCK
+P1037,potato,Dairy & Bakery,Mother Dairy,167,box,189.23,23.14,,16,NA,RACK-5,N/A,Low Stock
+P1198,Tomato,Personal Care,Nestle,163,PCS,101.92,457.52,TBD,6,2024-10-15,RACK-5,N/A,in stock
+P1195,Pickle,Personal Care,NA,34,packet,55.45,510.78,,6,NA,NA,N/A,In Stock
+P1191,COOKING OIL,Grocery & Staples,Britannia,101,KG,113.58,448.45,NA,16,15-10-2024,A1,N/A,NA
+P1062,TOOR DAL,Home & Kitchen,NA,183,Kg,,490.9,metro cash,26,2024/10/20,NA,2026-01-15,in stock
+P1194,shampoo,Fruits & Vegetables,HUL,176,PCS,285.57,341.01,metro cash,13,2024-10-15,,2026-01-15,In Stock
+P1174,ONION,Personal Care,HUL,83,packet,30.61,61.23,local vendor,28,2024/10/20,D4,2025-12-31,NA
+P1187,Ghee,Grocery & Staples,NA,21,ltr,84.91,59.08,NA,19,15-10-2024,NA,2026-01-15,
+P1145,ONION,Fruits & Vegetables,,187,packet,15.17,313.75,,27,,D4,,OUT OF STOCK
+P1154,TOOTHPASTE,Frozen Foods,Amul,172,kg,186.17,329.09,TBD,8,15-10-2024,D4,2026-01-15,Available
+P1170,COOKING OIL,Grocery & Staples,,35,,300.97,150.41,TBD,19,12/10/2024,D4,Dec-2025,NA
+P1020,BUTTER,Personal Care,Mother Dairy,7,pieces,484.81,511.49,metro cash,20,2024-10-15,TBD,31/12/2025,in stock
+P1074,SAUCE,Snacks & Beverages,MDH,51,gm,380.23,413.3,metro cash,25,NA,A1,Dec-2025,NA
+P1078,bread,Packaged Foods,Local,-3,pieces,335.06,93.56,Reliance Retail,28,,c3,Dec-2025,OUT OF STOCK
+P1176,Tomato,Personal Care,Nestle,18,gram,407.77,358.08,,26,12/10/2024,TBD,Dec-2025,NA
+P1170,Tomato,Grocery & Staples,HUL,137,gram,316.74,304.94,BIGBASKET,26,2024/10/20,,2026-01-15,Low Stock
+P1175,Floor Cleaner,Frozen Foods,,40,PCS,181.38,538.28,TBD,7,10-Oct-24,A1,,In Stock
+P1143,Soap,Home & Kitchen,NA,125,kg,,209.83,local vendor,9,,c3,Dec-2025,
+P1096,chips,Fruits & Vegetables,ITC,145,box,498.61,392.9,NA,30,10-Oct-24,B2,31/12/2025,Low Stock
+P1091,frozen peas,Packaged Foods,Mother Dairy,133,kg,421.14,493.53,Reliance Retail,18,2024-10-15,D4,31/12/2025,Available
+P1061,TOOR DAL,N/A,Tata,27,pieces,41.14,226.79,,21,2024-10-15,A1,2026-01-15,NA
+P1093,SAUCE,Dairy & Bakery,Mother Dairy,35,KG,340.32,448.36,Reliance Retail,,15-10-2024,A1,2025-12-31,In Stock
+P1021,TOOR DAL,Grocery & Staples,Britannia,115,GM,324.51,232.05,local vendor,19,12/10/2024,RACK-5,,Low Stock
