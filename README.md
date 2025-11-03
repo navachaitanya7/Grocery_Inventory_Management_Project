@@ -1,7 +1,6 @@
 # Grocery_Inventory_Management_Project
 Practical data cleaning and organization project for grocery/retail inventory datasets. Includes raw and cleaned data, key metric calculations, and before/after process screenshots. Demonstrates techniques for fixing missing values, duplicates, formatting issues, and standardizing inventory data for actionable analysis.
-That's a solid, comprehensive README structure. Since you've provided the content, I'll format it into a clean, professional README file, using clear headings and bolding for emphasis, making it perfect for a project submission.
----
+
 
 ## 🍎🛒 README: Grocery Inventory Management Project
 
